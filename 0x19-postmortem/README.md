@@ -1,4 +1,4 @@
-!postmortem.jpg Image
+<img src="postmortem" alt="image">
 
 
 Postmortem: Web Application Outage
