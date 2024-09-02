@@ -1,4 +1,6 @@
 !postmortem.jpg
+
+
 Postmortem: Web Application Outage
 Issue Summary
 Duration: August 25, 2024, 14:00 GMT - August 25, 2024, 16:30 GMT (2 hours 30 minutes)
